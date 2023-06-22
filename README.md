@@ -8,7 +8,7 @@
 ##### D. <a href=tasks_description/D_Cosmopolitanism.md>Космополитизм</a>
 ##### E. <a href=tasks_description/E_Abracadabra.md>Абракадабра</a>
 
-## Solvings
+## Python-Solvings
 
 ##### A. <a href=Python/Keyboard.py>Лучше клавиатуры не сыскать?</a>
 ##### B. <a href=Python/Sculpture.py>Горе от перфекционизма</a>
