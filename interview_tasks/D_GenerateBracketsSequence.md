@@ -1,1 +1,1 @@
-![img_3.png](img_3.png)
+![img_3.png](images_description/img_3.png)
