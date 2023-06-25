@@ -24,8 +24,8 @@
 
 ### Solvings
 
-##### A. <a href=interview_tasks/Python/A_StonesAndJewelry.md>Камни и украшения<</a>
-##### B. <a href=interview_tasks/Python/B_SequenceOfOnes.md>Последовательно идущие единицы<</a>
+##### A. <a href=interview_tasks/Python/A_StonesAndJewelry.md>Камни и украшения</a>
+##### B. <a href=interview_tasks/Python/B_SequenceOfOnes.md>Последовательно идущие единицы</a>
 ##### C. <a href=interview_tasks/Python/C_DublicateRemove.md>Удаление дубликатов</a>
 ##### D. <a href=interview_tasks/Python/D_GenerateBracketsSequence.md>Генерация скобочных последовательностей</a>
 ##### E. <a href=interview_tasks/Python/E_Anagrammes.md>Анаграммы</a>
