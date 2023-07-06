@@ -17,7 +17,7 @@
 ## Training interview contest
 
 ##### A. <a href=interview_tasks/A_StonesAndJewelry.md>Камни и украшения</a>
-##### B. <a href=interview_tasks/B_SequenceOfOne.md>Последовательно идущие единицы</a>
+##### B. <a href=interview_tasks/B_SequenceOfOnes.md>Последовательно идущие единицы</a>
 ##### C. <a href=interview_tasks/C_DublicateRemove.md>Удаление дубликатов</a>
 ##### D. <a href=interview_tasks/D_GenerateBracketsSequence.md>Генерация скобочных последовательностей</a>
 ##### E. <a href=interview_tasks/E_Anagrammes.md>Анаграммы</a>
