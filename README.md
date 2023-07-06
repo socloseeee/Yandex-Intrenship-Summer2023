@@ -27,5 +27,5 @@
 ##### A. <a href=interview_tasks/Python/Stones_And_Jewelry.py>Камни и украшения</a>
 ##### B. <a href=interview_tasks/Python/Sequence_Of_Ones.py>Последовательно идущие единицы</a>
 ##### C. <a href=interview_tasks/Python/Dublicate_Remove.py>Удаление дубликатов</a>
-##### D. <a href=interview_tasks/Python/Generate_Brackets_Sequence.py>Генерация скобочных последовательностей</a>
+##### D. <a href=interview_tasks/Python/Generate_Bracket_Sequence.py>Генерация скобочных последовательностей</a>
 ##### E. <a href=interview_tasks/Python/Anogramm.py>Анаграммы</a>
