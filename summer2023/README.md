@@ -17,15 +17,15 @@
 ## Training interview contest
 
 ##### A. <a href=interview_tasks/A_StonesAndJewelry.md>Камни и украшения</a>
-##### B. <a href=interview_tasks/B_SequenceOfOne.md>Последовательно идущие единицы</a>
+##### B. <a href=interview_tasks/B_SequenceOfOnes.md>Последовательно идущие единицы</a>
 ##### C. <a href=interview_tasks/C_DublicateRemove.md>Удаление дубликатов</a>
 ##### D. <a href=interview_tasks/D_GenerateBracketsSequence.md>Генерация скобочных последовательностей</a>
 ##### E. <a href=interview_tasks/E_Anagrammes.md>Анаграммы</a>
 
 ### Solvings
 
-##### A. <a href=interview_tasks/Python/A_StonesAndJewelry.md>Камни и украшения</a>
-##### B. <a href=interview_tasks/Python/B_SequenceOfOnes.md>Последовательно идущие единицы</a>
-##### C. <a href=interview_tasks/Python/C_DublicateRemove.md>Удаление дубликатов</a>
-##### D. <a href=interview_tasks/Python/D_GenerateBracketsSequence.md>Генерация скобочных последовательностей</a>
-##### E. <a href=interview_tasks/Python/E_Anagrammes.md>Анаграммы</a>
+##### A. <a href=interview_tasks/Python/Stones_and_Jewelry.py>Камни и украшения</a>
+##### B. <a href=interview_tasks/Python/Sequence_Of_Ones.py>Последовательно идущие единицы</a>
+##### C. <a href=interview_tasks/Python/Dublicate_Remove.py>Удаление дубликатов</a>
+##### D. <a href=interview_tasks/Python/Generate_Bracket_Sequence.py>Генерация скобочных последовательностей</a>
+##### E. <a href=interview_tasks/Python/Anogramm.py>Анаграммы</a>
